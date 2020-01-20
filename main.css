@@ -3,7 +3,7 @@
 }
 
 .exterior{
-    padding-left: 150px;
+    padding-left: 120px;
     padding-top: 90px;
 }
 
@@ -17,7 +17,7 @@
 
 .rightColomn{
     margin: 2px;
-    margin-left: 10px;
+    margin-left: 30px;
     display:inline-block;
     text-align: center;
     border-radius: 5px;
@@ -27,17 +27,17 @@
 
 
 .outOfBox{
-    margin:12px;
+    margin:15px;
 }
 
 .inTopBox{
-    margin:10px;
+    margin:1px;
 }
 
 .product {
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     padding-left: 12px;
-    padding-top: 10px;
+    padding-top: 15px;
     line-height: 35px;
     border-top-style: solid;
     border-top-width: 1px;
@@ -76,7 +76,7 @@
     opacity: 0.8;
     background-color: #ffc2fd;
     border-color: #fcc0f6;
-    border-width: 3px;
+    border-width: 3.5px;
 
 
 }
@@ -105,17 +105,14 @@
 }
 
 .addButton{
-    display: inline-block;
-    width:60px;
+    width:72px;
     height: 24px;
     border-top-width: 2px;
     border-bottom-width: 2px;
     display:inline-block;
-    font:"Times New Roman";
     background-color: #ded3d3;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
-    box-shadow: 4px, 4px, 3px, 3px;
     
 }
 
@@ -130,8 +127,6 @@
 }
 
 .bought {
-    min-width: 5px;
-    min-height: 5px;
     padding:5px 8px 5px 8px;
     margin-left:15px;
     line-height: normal;
@@ -202,3 +197,5 @@
     border-top-color: #d4d2cf;
     padding:20px;
 }
+
+
