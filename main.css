@@ -1,0 +1,179 @@
+.mainBody{
+    background: #c7c1c1;
+}
+
+.exterior{
+    padding-left: 150px;
+    padding-top: 90px;
+}
+
+.leftColomn{
+    float:left;
+    display: inline-block;
+    width:auto;
+    background-color:white;
+    border-radius: 5px;
+}
+
+.rightColomn{
+    margin: 2px;
+    margin-left: 10px;
+    display:inline-block;
+    text-align: center;
+    border-radius: 5px;
+    width:280px;
+    background-color:white;
+}
+
+
+.outOfBox{
+    margin:12px;
+}
+
+.inTopBox{
+    margin:10px;
+}
+
+.product {
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-top: 10px;
+    line-height: 35px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #e7ebe6;
+}
+
+.nameOfTheRow {
+    display: inline;
+    width: auto;
+    font-family: "Arial";
+    font-size: 85%;
+    padding-left: 5px;
+}
+
+.textAboutPr{
+    padding-left:5px;
+}
+
+
+.allButtons{
+    float:right;
+}
+
+.buttonsAndNumber{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.minButton{
+    min-width: 5px;
+    min-height: 5px;
+    padding:5px 10px 5px 10px;
+    line-height: normal;
+    border-radius: 100%;
+    font-weight: 500;
+    opacity: 0.8;
+    background-color: #ffc2fd;
+    border-color: #fcc0f6;
+    border-width: 3px;
+
+
+}
+
+.plusButton{
+    min-width: 5px;
+    min-height: 5px;
+    border-width:3px;
+    background-color: #21ba45;
+    padding: 5px 10px 5px 10px;
+    line-height: normal;
+    border-radius: 100%;
+    font-weight: 500;
+    opacity: 0.8;
+    border-color: #1db505;
+}
+
+
+.itemsCounter{
+    padding: 4px 8px 4px 8px;
+    border-radius: 3px;
+    background-color: #f5e1ae;
+    font-size: 75%;
+    font-family: "Arial";
+    color: #828281;
+}
+
+.plusesAndMin{
+   display: inline-block;
+   margin-right: 8px;
+}
+
+.choiceButtons{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.bought {
+  min-width: 5px;
+  min-height: 5px;
+  font-weight: 500;
+  color: #737373;
+  padding: 5px;
+  border: 1px;
+  border-radius: 4px;
+  background: #d9d8d4 ;
+  box-shadow:6px 6px 7px #bab8b8;
+}
+
+.delete{
+  font-weight: 500;
+  color: #cfcdcc;
+  margin:2px;
+  padding: 5px;
+  border: 1px;
+  border-radius: 4px;
+  background: #ed2415;
+  box-shadow:6px 6px 7px #c7c5c7;
+}
+
+.howMuchAreBought{
+    border-top-color: #d4d2cf;
+    border-top-width: 1px;
+    padding: 8px;
+    border-top-style: solid;
+}
+
+.nameOfBought{
+    padding-left:6px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.infOfProd{
+    min-width: 5px;
+    min-height: 5px;
+    padding: 3px 7px 3px 7px;
+    line-height: normal;
+    border-radius: 100%;
+    font-weight: 500;
+    opacity: 0.8;
+    color: #edeceb;
+    background-color:#e8ae1a; 
+}
+
+.boughtInform{
+    text-align: center;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #d4d2cf;
+}
+
+.list{
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #d4d2cf;
+    padding:20px;
+}
